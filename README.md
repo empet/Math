@@ -3,4 +3,4 @@ Math
 
 Virtual Math Lab
 
-[Domain Coloring. A Method of Visulization of Complex Functions](http://nbviewer.ipython.org/url/raw.github.com/empet/Math/master/DomainColoring.ipynb)
+[Visualizing complex-valued functions with Matplotlib and Mayavi](http://nbviewer.ipython.org/url/raw.github.com/empet/Math/master/DomainColoring.ipynb)
