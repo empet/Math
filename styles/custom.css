@@ -1,47 +1,106 @@
 <style>
-    @font-face {
-        font-family: "Computer Modern";
-        src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
-    }
+    /*body {
+        background-color: #F5F5F5;
+    }*/
     div.cell{
-        width:800px;
-        margin-left:16% !important;
-        margin-right:auto;
+        width: 800px;
+        margin-left: 16% !important;
+        margin-right: auto;
     }
     h1 {
-        font-family: Helvetica, serif;
+        font-family: 'Alegreya Sans', sans-serif;
     }
-    h4{
-        margin-top:12px;
-        margin-bottom: 3px;
-       }
+    .text_cell_render h1 {
+        font-weight: 200;
+        font-size: 40pt;
+        line-height: 100%;
+        margin-bottom: 0em;
+        margin-top: 0em;
+        display: block;
+    }
+    h2 {
+        font-family: 'Fenix', serif;
+        text-indent:1em;
+    }
+    .text_cell_render h2 {
+        font-weight: 200;
+        font-size: 20pt;
+        line-height: 100%;
+        margin-bottom: 1.5em;
+        margin-top: 0.5em;
+        display: block;
+    }
+    h3 {
+        font-family: 'Fenix', serif;
+        %margin-top:12px;
+        %margin-bottom: 3px;
+    }
+    .text_cell_render h3 {
+        font-weight: 300;
+        font-size: 18pt;
+        line-height: 100%;
+        margin-bottom: 0.5em;
+        margin-top: 2em;
+        display: block;
+    }
+    h4 {
+        font-family: 'Fenix', serif;
+    }
+    .text_cell_render h4 {
+        font-weight: 300;
+        font-size: 16pt;
+        margin-bottom: 0.5em;
+        margin-top: 0.5em;
+        display: block;
+    }
+    h5 {
+        font-family: 'Alegreya Sans', sans-serif;
+    }
+    .text_cell_render h5 {
+        font-weight: 300;
+        font-style: normal;
+        font-size: 16pt;
+        margin-bottom: 0em;
+        margin-top: 1.5em;
+        display: block;
+        }
     div.text_cell_render{
-        font-family: Computer Modern, "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+        font-family: 'Alegreya Sans',Computer Modern, "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
         line-height: 145%;
         font-size: 130%;
         width:800px;
         margin-left:auto;
         margin-right:auto;
+        text-align:justify;
+        text-justify:inter-word;
     }
-    .CodeMirror{
-            font-family: "Source Code Pro", source-code-pro,Consolas, monospace;
+
+    code{
+      font-size: 78%;
     }
     .prompt{
         display: None;
+     }   
+    .rendered_html code{
+    background-color: transparent;
     }
-    .text_cell_render h5 {
-        font-weight: 300;
-        font-size: 22pt;
-        color: #4057A1;
-        font-style: italic;
-        margin-bottom: .5em;
-        margin-top: 0.5em;
-        display: block;
-    }
-    
-    .warning{
-        color: rgb( 240, 20, 20 )
-        }  
+
+    blockquote{
+      display:block;
+      background: #f3f3f3;
+      font-family: "Open sans",verdana,arial,sans-serif;
+      width:610px;
+      padding: 15px 15px 15px 15px;
+      text-align:justify;
+      text-justify:inter-word;
+      }
+      blockquote p {
+        margin-bottom: 0;
+        line-height: 125%;
+        font-size: 100%;
+      }
+   /* element.style {
+    } */
 </style>
 <script>
     MathJax.Hub.Config({
@@ -49,12 +108,12 @@
                            extensions: ["AMSmath.js"]
                            },
                 tex2jax: {
-                    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-                    displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+                    inlineMath: [ ["$","$"], ["\\(","\\)"] ],
+                    displayMath: [ ["$$","$$"], ["\\[","\\]"] ]
                 },
-                displayAlign: 'center', // Change this to 'center' to center equations.
+                displayAlign: "center", // Change this to "center" to center equations.
                 "HTML-CSS": {
-                    styles: {'.MathJax_Display': {"margin": 4}}
+                    styles: {".MathJax_Display": {"margin": 4}}
                 }
         });
 </script>
