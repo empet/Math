@@ -10,3 +10,5 @@ Virtual Math Lab
 [Klein's j-function illustrated with different domain coloring methods](http://nbviewer.ipython.org/github/empet/Math/blob/master/Klein-j-function.ipynb)
 
 [Escape Time Algorithm for plotting Julia set](http://nbviewer.ipython.org/github/empet/Math/blob/master/Julia-set.ipynb)
+
+[Rogers-Ramanujan continued fraction as a part of the project *Matplotlib Plots for Wikipedia*](http://nbviewer.ipython.org/github/empet/Math/blob/master/Matplotlib-Plots-for-Wikipedia-RR.ipynb)
