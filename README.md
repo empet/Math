@@ -14,3 +14,5 @@ Virtual Math Lab
 [Rogers-Ramanujan continued fraction as a part of the project *Matplotlib Plots for Wikipedia*](http://nbviewer.ipython.org/github/empet/Math/blob/master/Matplotlib-Plots-for-Wikipedia-RR.ipynb)
 
 [Visualization of the Riemann zeta function](http://nbviewer.ipython.org/github/empet/Math/blob/master/Riemann-Zeta.ipynb)
+
+[Iterated complex factorial. Gamma function fractals](http://nbviewer.ipython.org/github/empet/Math/blob/master/Gamma-iterated-factorial.ipynb)
