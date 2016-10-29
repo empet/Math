@@ -18,3 +18,5 @@ Virtual Math Lab
 [Visualization of the Riemann zeta function](http://nbviewer.ipython.org/github/empet/Math/blob/master/Riemann-Zeta.ipynb)
 
 [Iterated complex factorial. Gamma function fractals](http://nbviewer.ipython.org/github/empet/Math/blob/master/Gamma-iterated-factorial.ipynb)
+
+[Moebius transformation applied to a discrete image](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Moebius-transform-image.ipynb)
