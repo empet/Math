@@ -1,7 +1,7 @@
 Math
 ====
 
-Virtual Math Lab
+Visualizing complex functions properties and their applications
 
 [Visualizing complex-valued functions with Matplotlib and Mayavi](http://nbviewer.ipython.org/url/raw.github.com/empet/Math/master/DomainColoring.ipynb)
 
@@ -20,3 +20,7 @@ Virtual Math Lab
 [Iterated complex factorial. Gamma function fractals](http://nbviewer.ipython.org/github/empet/Math/blob/master/Gamma-iterated-factorial.ipynb)
 
 [Moebius transformation applied to a discrete image](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Moebius-transform-image.ipynb)
+
+[Streamlines of the flow past a Jpukowski airfoil](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Joukowski-airfoil.ipynb)
+
+[Animating the streamlines of the flow past a rotating Joukowski aifoil](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Joukowski-airfoil-rotation-online.ipynb)
