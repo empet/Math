@@ -21,6 +21,6 @@ Visualizing complex functions properties and their applications
 
 [Moebius transformation applied to a discrete image](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Moebius-transform-image.ipynb)
 
-[Streamlines of the flow past a Jpukowski airfoil](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Joukowski-airfoil.ipynb)
+[Streamlines of the flow past a Joukowski airfoil](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Joukowski-airfoil.ipynb)
 
 [Animating the streamlines of the flow past a rotating Joukowski aifoil](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Joukowski-airfoil-rotation-online.ipynb)
