@@ -3,24 +3,30 @@ Math
 
 Visualizing complex functions properties and their applications
 
-[Visualizing complex-valued functions with Matplotlib and Mayavi](http://nbviewer.ipython.org/url/raw.github.com/empet/Math/master/DomainColoring.ipynb)
+1. [Visualizing complex-valued functions with Matplotlib and Mayavi](http://nbviewer.ipython.org/url/raw.github.com/empet/Math/master/DomainColoring.ipynb)
 
-[Plotly interactive visualization of complex valued functions](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Plotly-interactive-visualization-of-complex-valued-functions.ipynb)
+2. [Plotly interactive visualization of complex valued functions](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Plotly-interactive-visualization-of-complex-valued-functions.ipynb)
 
-[Visual study of the winding number of a closed path in the complex plane. The argument principle](http://nbviewer.ipython.org/github/empet/Math/blob/master/Winding-Number.ipynb)
+3. [Visual study of the winding number of a closed path in the complex plane. The argument principle](http://nbviewer.ipython.org/github/empet/Math/blob/master/Winding-Number.ipynb)
 
-[Klein's j-function illustrated with different domain coloring methods](http://nbviewer.ipython.org/github/empet/Math/blob/master/Klein-j-function.ipynb)
+4. [Plotly plot of the Riemann surface Real(sqrt(z))](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Riemann-Surface-sqrt-z.ipynb)
 
-[Escape Time Algorithm for plotting Julia set](http://nbviewer.ipython.org/github/empet/Math/blob/master/Julia-set.ipynb)
+5. [Plotly plot of the Riemann surface Real(sqrt[4](z))](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Riemann-Surface-Real-sqrt4-z.ipynb)
 
-[Rogers-Ramanujan continued fraction as a part of the project *Matplotlib Plots for Wikipedia*](http://nbviewer.ipython.org/github/empet/Math/blob/master/Matplotlib-Plots-for-Wikipedia-RR.ipynb)
+6. [Streamlines of the flow past a Joukowski airfoil](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Joukowski-airfoil.ipynb)
 
-[Visualization of the Riemann zeta function](http://nbviewer.ipython.org/github/empet/Math/blob/master/Riemann-Zeta.ipynb)
+7. [Animating the streamlines of the flow past a rotating Joukowski aifoil](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Joukowski-airfoil-rotation-online.ipynb)
 
-[Iterated complex factorial. Gamma function fractals](http://nbviewer.ipython.org/github/empet/Math/blob/master/Gamma-iterated-factorial.ipynb)
+8. [Moebius transformation applied to a discrete image](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Moebius-transform-image.ipynb)
 
-[Moebius transformation applied to a discrete image](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Moebius-transform-image.ipynb)
+9. [Visualization of the Riemann zeta function](http://nbviewer.ipython.org/github/empet/Math/blob/master/Riemann-Zeta.ipynb)
 
-[Streamlines of the flow past a Joukowski airfoil](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Joukowski-airfoil.ipynb)
+10 [Klein's j-function illustrated with different domain coloring methods](http://nbviewer.ipython.org/github/empet/Math/blob/master/Klein-j-function.ipynb)
 
-[Animating the streamlines of the flow past a rotating Joukowski aifoil](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Joukowski-airfoil-rotation-online.ipynb)
+11. [Escape Time Algorithm for plotting Julia set](http://nbviewer.ipython.org/github/empet/Math/blob/master/Julia-set.ipynb)
+
+12. [Rogers-Ramanujan continued fraction as a part of the project *Matplotlib Plots for Wikipedia*](http://nbviewer.ipython.org/github/empet/Math/blob/master/Matplotlib-Plots-for-Wikipedia-RR.ipynb)
+
+13. [Iterated complex factorial. Gamma function fractals](http://nbviewer.ipython.org/github/empet/Math/blob/master/Gamma-iterated-factorial.ipynb)
+
+
