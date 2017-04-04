@@ -11,7 +11,7 @@ Visualizing complex functions properties and their applications
 
 4. [Plotly plot of the Riemann surface Real(sqrt(z))](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Riemann-Surface-sqrt-z.ipynb)
 
-5. [Plotly plot of the Riemann surface Real(sqrt[4](z))](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Riemann-Surface-Real-sqrt4-z.ipynb)
+5. [Plotly plot of the Riemann surface Real(sqrt4(z))](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Riemann-Surface-Real-sqrt4-z.ipynb)
 
 6. [Streamlines of the flow past a Joukowski airfoil](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Joukowski-airfoil.ipynb)
 
