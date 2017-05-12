@@ -29,4 +29,6 @@ Visualizing complex functions properties and their applications
 
 13. [Iterated complex factorial. Gamma function fractals](http://nbviewer.ipython.org/github/empet/Math/blob/master/Gamma-iterated-factorial.ipynb)
 
+14. [Animation of 8 points on a circle moving inside a greater circle](http://nbviewer.jupyter.org/github/empet/Math/blob/master/fermat-circle-moving-online.ipynb)
+
 
