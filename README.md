@@ -1,7 +1,7 @@
 Math
 ====
+Complex function visualization
 
-Visualizing complex functions properties and their applications
 
 1. [Visualizing complex-valued functions with Matplotlib and Mayavi](http://nbviewer.ipython.org/url/raw.github.com/empet/Math/master/DomainColoring.ipynb)
 
@@ -23,12 +23,12 @@ Visualizing complex functions properties and their applications
 
 10 [Klein's j-function illustrated with different domain coloring methods](http://nbviewer.ipython.org/github/empet/Math/blob/master/Klein-j-function.ipynb)
 
-11. [Escape Time Algorithm for plotting Julia set](http://nbviewer.ipython.org/github/empet/Math/blob/master/Julia-set.ipynb)
+11 [Escape Time Algorithm for plotting Julia set](http://nbviewer.ipython.org/github/empet/Math/blob/master/Julia-set.ipynb)
 
-12. [Rogers-Ramanujan continued fraction as a part of the project *Matplotlib Plots for Wikipedia*](http://nbviewer.ipython.org/github/empet/Math/blob/master/Matplotlib-Plots-for-Wikipedia-RR.ipynb)
+12 [Rogers-Ramanujan continued fraction as a part of the project *Matplotlib Plots for Wikipedia*](http://nbviewer.ipython.org/github/empet/Math/blob/master/Matplotlib-Plots-for-Wikipedia-RR.ipynb)
 
-13. [Iterated complex factorial. Gamma function fractals](http://nbviewer.ipython.org/github/empet/Math/blob/master/Gamma-iterated-factorial.ipynb)
+13 [Iterated complex factorial. Gamma function fractals](http://nbviewer.ipython.org/github/empet/Math/blob/master/Gamma-iterated-factorial.ipynb)
 
-14. [Animation of 8 points on a circle moving inside a greater circle](http://nbviewer.jupyter.org/github/empet/Math/blob/master/fermat-circle-moving-online.ipynb)
+14 [Animation of 8 points on a circle moving inside a greater circle](http://nbviewer.jupyter.org/github/empet/Math/blob/master/fermat-circle-moving-online.ipynb)
 
-15. [Hypocycloid generation and animation](http://nbviewer.jupyter.org/github/empet/Math/blob/master/hypocycloid-online.ipynb)
+15 [Hypocycloid generation and animation](http://nbviewer.jupyter.org/github/empet/Math/blob/master/hypocycloid-online.ipynb)
