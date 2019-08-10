@@ -3,7 +3,7 @@ Math
 Complex function visualization
 
 
-1. [Visualizing complex-valued functions with Matplotlib and Mayavi](http://nbviewer.ipython.org/url/raw.github.com/empet/Math/master/DomainColoring.ipynb)
+1. [Visualizing complex-valued functions with Matplotlib and Mayavi. Domain coloring method](http://nbviewer.ipython.org/url/raw.github.com/empet/Math/master/DomainColoring.ipynb)
 
 2. [Plotly interactive visualization of complex valued functions. Domain coloring method](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Plotly-interactive-visualization-of-complex-valued-functions.ipynb)
 
