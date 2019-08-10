@@ -5,7 +5,7 @@ Complex function visualization
 
 1. [Visualizing complex-valued functions with Matplotlib and Mayavi](http://nbviewer.ipython.org/url/raw.github.com/empet/Math/master/DomainColoring.ipynb)
 
-2. [Plotly interactive visualization of complex valued functions](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Plotly-interactive-visualization-of-complex-valued-functions.ipynb)
+2. [Plotly interactive visualization of complex valued functions. Domain coloring method](http://nbviewer.jupyter.org/github/empet/Math/blob/master/Plotly-interactive-visualization-of-complex-valued-functions.ipynb)
 
 3. [Visual study of the winding number of a closed path in the complex plane. The argument principle](http://nbviewer.ipython.org/github/empet/Math/blob/master/Winding-Number.ipynb)
 
