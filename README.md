@@ -34,3 +34,5 @@ Complex function visualization
 15 [Hypocycloid generation and animation](http://nbviewer.jupyter.org/github/empet/Math/blob/master/hypocycloid-online.ipynb)
 
 16. [Animating-the-Dragon-curve-construction](https://nbviewer.jupyter.org/github/empet/Math/blob/master/Animating-the-Dragon-curve-construction.ipynb)
+
+17. [Arnold cat map](https://nbviewer.jupyter.org/github/empet/Discrete-Arnold-map/blob/master/Animating-iterations-of-the-Arnold-map-acting-on-an-image.ipynb)
