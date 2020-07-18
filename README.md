@@ -32,3 +32,5 @@ Complex function visualization
 14 [Animation of 8 points on a circle moving inside a greater circle](http://nbviewer.jupyter.org/github/empet/Math/blob/master/fermat-circle-moving-online.ipynb)
 
 15 [Hypocycloid generation and animation](http://nbviewer.jupyter.org/github/empet/Math/blob/master/hypocycloid-online.ipynb)
+
+16. [Animating-the-Dragon-curve-construction](https://nbviewer.jupyter.org/github/empet/Math/blob/master/Animating-the-Dragon-curve-construction.ipynb)
