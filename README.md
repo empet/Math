@@ -38,3 +38,5 @@ Complex function visualization
 17. [Animating-the-Dragon-curve-construction](https://nbviewer.jupyter.org/github/empet/Math/blob/master/Animating-the-Dragon-curve-construction.ipynb)
 
 18. [Arnold cat map](https://nbviewer.jupyter.org/github/empet/Discrete-Arnold-map/blob/master/Animating-iterations-of-the-Arnold-map-acting-on-an-image.ipynb)
+
+19. [4D rotations and Mobius 3D Transformations](https://github.com/empet/4d-rotations-and-Mobius-3d-transformations)
