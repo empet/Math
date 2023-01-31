@@ -13,30 +13,18 @@ Complex function visualization
 
 5. [Plotly plot of the Riemann surface Real(sqrt(z))](http://nbviewer.org/github/empet/Math/blob/master/Riemann-Surface-sqrt-z.ipynb)
 
-6. [Plotly plot of the Riemann surface Real(sqrt4(z))](http://nbviewer.org/github/empet/Math/blob/master/Riemann-Surface-Real-sqrt4-z.ipynb)
+6. [Animating the streamlines of the flow past a rotating Joukowski aifoil](http://nbviewer.org/github/empet/Math/blob/master/Joukowski-airfoil-rotation-online.ipynb)
 
-7. [Streamlines of the flow past a Joukowski airfoil](http://nbviewer.org/github/empet/Math/blob/master/Joukowski-airfoil.ipynb)
+7. [Moebius transformation applied to a discrete image](http://nbviewer.org/github/empet/Math/blob/master/Moebius-transform-image.ipynb)
 
-8. [Animating the streamlines of the flow past a rotating Joukowski aifoil](http://nbviewer.org/github/empet/Math/blob/master/Joukowski-airfoil-rotation-online.ipynb)
+8 [Escape Time Algorithm for plotting Julia set](http://nbviewer.org/github/empet/Math/blob/master/Julia-set.ipynb)
 
-9. [Moebius transformation applied to a discrete image](http://nbviewer.org/github/empet/Math/blob/master/Moebius-transform-image.ipynb)
+9 [Animation of 8 points on a circle moving inside a greater circle](http://nbviewer.org/github/empet/Math/blob/master/fermat-circle-moving-online.ipynb)
 
-10. [Visualization of the Riemann zeta function](http://nbviewer.org/github/empet/Math/blob/master/Riemann-Zeta.ipynb)
+10 [Hypocycloid generation and animation](http://nbviewer.org/github/empet/Math/blob/master/hypocycloid-online.ipynb)
 
-11 [Klein's j-function illustrated with different domain coloring methods](http://nbviewer.org/github/empet/Math/blob/master/Klein-j-function.ipynb)
+11. [Animating-the-Dragon-curve-construction](https://nbviewer.jupyter.org/github/empet/Math/blob/master/Animating-the-Dragon-curve-construction.ipynb)
 
-12 [Escape Time Algorithm for plotting Julia set](http://nbviewer.org/github/empet/Math/blob/master/Julia-set.ipynb)
+12. [Arnold cat map](https://nbviewer.org/github/empet/Discrete-Arnold-map/blob/master/Animating-iterations-of-the-Arnold-map-acting-on-an-image.ipynb)
 
-13 [Rogers-Ramanujan continued fraction as a part of the project *Matplotlib Plots for Wikipedia*](http://nbviewer.org/github/empet/Math/blob/master/Matplotlib-Plots-for-Wikipedia-RR.ipynb)
-
-14 [Iterated complex factorial. Gamma function fractals](http://nbviewer.org/github/empet/Math/blob/master/Gamma-iterated-factorial.ipynb)
-
-15 [Animation of 8 points on a circle moving inside a greater circle](http://nbviewer.org/github/empet/Math/blob/master/fermat-circle-moving-online.ipynb)
-
-16 [Hypocycloid generation and animation](http://nbviewer.org/github/empet/Math/blob/master/hypocycloid-online.ipynb)
-
-17. [Animating-the-Dragon-curve-construction](https://nbviewer.jupyter.org/github/empet/Math/blob/master/Animating-the-Dragon-curve-construction.ipynb)
-
-18. [Arnold cat map](https://nbviewer.org/github/empet/Discrete-Arnold-map/blob/master/Animating-iterations-of-the-Arnold-map-acting-on-an-image.ipynb)
-
-19. [4D rotations and Mobius 3D Transformations](https://nbviewer.org/github/empet/4d-rotations-and-Mobius-3d-transformations)
+13. [4D rotations and Mobius 3D Transformations](https://nbviewer.org/github/empet/4d-rotations-and-Mobius-3d-transformations)
